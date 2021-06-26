@@ -8,7 +8,7 @@ import java.net.URLEncoder;
 import java.nio.charset.Charset;
 
 public class RestAPIPt {
-
+	//https://developers.kakao.com/docs/latest/ko/local/dev-guide#search-by-keyword
 	private static String GEOCODE_URL="http://dapi.kakao.com/v2/local/search/address.json?query=";
 	
 	public static void main(String[] args) {
